@@ -1,0 +1,27 @@
+
+body{
+    background-color: wheat;
+}
+
+.head-info{
+    margin-top: 10%;
+}
+
+
+
+header ul{
+    list-style: none;
+}
+header img{
+padding-top: 3%;
+}
+
+main{
+    width: 80%;
+    margin: 2% 10%;
+}
+.quote{
+    background-color:rgba(219, 178, 238, 0.25);
+    width: auto;
+    padding: 1% 0px;
+}
